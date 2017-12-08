@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Blog Posts" 
-    url: /publications/
+    url: /posts/
 
   - title: "Publications"    #white papers
-    url: /talks/    
+    url: /publications/    
 
   - title: "Presentations"   
     url: /talks/
 
   - title: "Evaluations"     #1 pagers
-    url: /teaching/    
+    url: /evaluations/    
     
   - title: "About"
-    url: /cv/
+    url: /about/
